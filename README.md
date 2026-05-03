@@ -26,7 +26,7 @@
 
 1.  Клонуйте репозиторій:
     ```bash
-    git clone [ВСТАВТЕ_ПОСИЛАННЯ_НА_ВАШ_РЕПОЗИТОРІЙ]
+    git clone https://github.com/danielschool913/rpzks_lab1.git
     cd rpzks_lab1
     ```
 2.  Запустіть програму:
